@@ -1,0 +1,3 @@
+interface ICompartilhamento{
+   void compartilhar();
+}

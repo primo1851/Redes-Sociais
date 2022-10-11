@@ -1,0 +1,3 @@
+interface IVideoConferencia{
+   void fazStreaming();
+}
